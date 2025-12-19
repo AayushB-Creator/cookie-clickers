@@ -33,3 +33,6 @@ body{
   padding: 1em;
   letter-spacing: .05em;
 }
+#cookie:active{
+  scale: .93;
+}
